@@ -21,16 +21,17 @@ website:
     left:
       - text: Home
         href: index.qmd
-        href: https://github.com/emse-madd-gwu/2022-Fall/
   page-footer:
     center:
       - text: '<a href="https://github.com/jhelvy/nrt-dataviz"><i class="fas fa-github"></i>'
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     anchor-sections: true
     smooth-scroll: true
     link-external-newwindow: true
     include-in-header: "_includes/header.html"
+
+
