@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 5896
+    browser: false
+  render:
+    - "*.qmd"
+
+website:
+  image: images/logo.png
+  site-url: https://jhelvy.github.io/nrt-dataviz/
+  repo-url: https://github.com/jhelvy/nrt-dataviz
+  description: 'Slides and content for my 2022 NRT workshop on storytelling and data visualization.'
+  search: true
+  open-graph: true
+  twitter-card:
+    site: "@johnhelveston"
+  navbar:
+    background: primary
+    left:
+      - text: Home
+        href: index.qmd
+        href: https://github.com/emse-madd-gwu/2022-Fall/
+  page-footer:
+    center:
+      - text: '<a href="https://github.com/jhelvy/nrt-dataviz"><i class="fas fa-github"></i>'
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header: "_includes/header.html"
