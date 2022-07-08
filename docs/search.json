@@ -1,0 +1,289 @@
+[
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Licensing and copyright information",
+    "section": "",
+    "text": "The course material is licensed under the Creative Commons ShareAlike 4.0 International License."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DTAIS Workshop:",
+    "section": "",
+    "text": "Part 1: Storytelling\nIn this section, we will discuss strategies for communicating research to others following good story telling principles. This will include:\n\nTelling a story\nDesigning slides\nGiving a talk\n\n\n\nPart 2: Visualizing Information\nIn this section, we will discuss design principles for visualizing information through charts. This will include:\n\nThe Human Visual-Memory System\nThe Psychology of Data Visualization\n10 Data Viz Best Practices"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/0.html",
+    "href": "parts/visualizing-information/topics/0.html",
+    "title": "",
+    "section": "",
+    "text": "class: inverse, middle"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/0.html#the-human-visual-memory-system",
+    "href": "parts/visualizing-information/topics/0.html#the-human-visual-memory-system",
+    "title": "",
+    "section": "1. The Human Visual-Memory System",
+    "text": "1. The Human Visual-Memory System"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/0.html#the-psychology-of-data-viz",
+    "href": "parts/visualizing-information/topics/0.html#the-psychology-of-data-viz",
+    "title": "",
+    "section": "2. The Psychology of Data Viz",
+    "text": "2. The Psychology of Data Viz"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/0.html#break",
+    "href": "parts/visualizing-information/topics/0.html#break",
+    "title": "",
+    "section": "BREAK",
+    "text": "BREAK"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/0.html#data-viz-best-practices",
+    "href": "parts/visualizing-information/topics/0.html#data-viz-best-practices",
+    "title": "",
+    "section": "3. 10 Data Viz Best Practices",
+    "text": "3. 10 Data Viz Best Practices"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/1.html",
+    "href": "parts/visualizing-information/topics/1.html",
+    "title": "",
+    "section": "",
+    "text": "class: inverse, middle"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/1.html#orangethe-human-visual-memory-system",
+    "href": "parts/visualizing-information/topics/1.html#orangethe-human-visual-memory-system",
+    "title": "",
+    "section": "1. .orange[The Human Visual-Memory System]",
+    "text": "1. .orange[The Human Visual-Memory System]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/1.html#the-psychology-of-data-viz",
+    "href": "parts/visualizing-information/topics/1.html#the-psychology-of-data-viz",
+    "title": "",
+    "section": "2. The Psychology of Data Viz",
+    "text": "2. The Psychology of Data Viz"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/1.html#break",
+    "href": "parts/visualizing-information/topics/1.html#break",
+    "title": "",
+    "section": "BREAK",
+    "text": "BREAK"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/1.html#data-viz-best-practices",
+    "href": "parts/visualizing-information/topics/1.html#data-viz-best-practices",
+    "title": "",
+    "section": "3. 10 Data Viz Best Practices",
+    "text": "3. 10 Data Viz Best Practices"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/2.html",
+    "href": "parts/visualizing-information/topics/2.html",
+    "title": "",
+    "section": "",
+    "text": "class: inverse, middle"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/2.html#the-human-visual-memory-system",
+    "href": "parts/visualizing-information/topics/2.html#the-human-visual-memory-system",
+    "title": "",
+    "section": "1. The Human Visual-Memory System",
+    "text": "1. The Human Visual-Memory System"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/2.html#orangethe-psychology-of-data-viz",
+    "href": "parts/visualizing-information/topics/2.html#orangethe-psychology-of-data-viz",
+    "title": "",
+    "section": "2. .orange[The Psychology of Data Viz]",
+    "text": "2. .orange[The Psychology of Data Viz]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/2.html#break",
+    "href": "parts/visualizing-information/topics/2.html#break",
+    "title": "",
+    "section": "BREAK",
+    "text": "BREAK"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/2.html#data-viz-best-practices",
+    "href": "parts/visualizing-information/topics/2.html#data-viz-best-practices",
+    "title": "",
+    "section": "3. 10 Data Viz Best Practices",
+    "text": "3. 10 Data Viz Best Practices"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/3.html",
+    "href": "parts/visualizing-information/topics/3.html",
+    "title": "",
+    "section": "",
+    "text": "class: inverse, middle"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/3.html#the-human-visual-memory-system",
+    "href": "parts/visualizing-information/topics/3.html#the-human-visual-memory-system",
+    "title": "",
+    "section": "1. The Human Visual-Memory System",
+    "text": "1. The Human Visual-Memory System"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/3.html#the-psychology-of-data-viz",
+    "href": "parts/visualizing-information/topics/3.html#the-psychology-of-data-viz",
+    "title": "",
+    "section": "2. The Psychology of Data Viz",
+    "text": "2. The Psychology of Data Viz"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/3.html#break",
+    "href": "parts/visualizing-information/topics/3.html#break",
+    "title": "",
+    "section": "BREAK",
+    "text": "BREAK"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/3.html#orange10-data-viz-best-practices",
+    "href": "parts/visualizing-information/topics/3.html#orange10-data-viz-best-practices",
+    "title": "",
+    "section": "3. .orange[10 Data Viz Best Practices]",
+    "text": "3. .orange[10 Data Viz Best Practices]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/4.html",
+    "href": "parts/visualizing-information/topics/4.html",
+    "title": "",
+    "section": "",
+    "text": "class: inverse, middle"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/4.html#the-human-visual-memory-system",
+    "href": "parts/visualizing-information/topics/4.html#the-human-visual-memory-system",
+    "title": "",
+    "section": "1. The Human Visual-Memory System",
+    "text": "1. The Human Visual-Memory System"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/4.html#the-psychology-of-data-viz",
+    "href": "parts/visualizing-information/topics/4.html#the-psychology-of-data-viz",
+    "title": "",
+    "section": "2. The Psychology of Data Viz",
+    "text": "2. The Psychology of Data Viz"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/4.html#break",
+    "href": "parts/visualizing-information/topics/4.html#break",
+    "title": "",
+    "section": "BREAK",
+    "text": "BREAK"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/4.html#data-viz-best-practices",
+    "href": "parts/visualizing-information/topics/4.html#data-viz-best-practices",
+    "title": "",
+    "section": "3. 10 Data Viz Best Practices",
+    "text": "3. 10 Data Viz Best Practices"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp0.html",
+    "href": "parts/visualizing-information/topics/bp0.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. Don’t lie 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms* 8. Don’t use pattern fills 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp1.html",
+    "href": "parts/visualizing-information/topics/bp1.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. .orange[Remove chart chunk] 2. Don’t make 3D plots 3. Don’t lie 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms* 8. Don’t use pattern fills 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp10.html",
+    "href": "parts/visualizing-information/topics/bp10.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. Don’t lie 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms* 8. Don’t use pattern fills 9. Don’t use red & green together 10. .orange[Consider tables for small data sets]]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp2.html",
+    "href": "parts/visualizing-information/topics/bp2.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. .orange[Don’t make 3D plots*] 3. Don’t lie 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms 8. Don’t use pattern fills 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp3.html",
+    "href": "parts/visualizing-information/topics/bp3.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. .orange[Don’t lie] 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms* 8. Don’t use pattern fills 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp4.html",
+    "href": "parts/visualizing-information/topics/bp4.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. Don’t lie 4. .orange[Don’t use pie charts for proportions*] 5. Don’t stack bars 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms 8. Don’t use pattern fills 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp5.html",
+    "href": "parts/visualizing-information/topics/bp5.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. Don’t lie 4. Don’t use pie charts for proportions 5. .orange[Don’t stack bars*] 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms 8. Don’t use pattern fills 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp6.html",
+    "href": "parts/visualizing-information/topics/bp6.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. Don’t lie 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. .orange[Rotate and sort categorical axes*] 7. Eliminate legends & directly label geoms 8. Don’t use pattern fills 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp7.html",
+    "href": "parts/visualizing-information/topics/bp7.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. Don’t lie 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. Rotate and sort categorical axes 7. .orange[Eliminate legends & directly label geoms*] 8. Don’t use pattern fills 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp8.html",
+    "href": "parts/visualizing-information/topics/bp8.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. Don’t lie 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms* 8. .orange[Don’t use pattern fills] 9. Don’t use red & green together 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "parts/visualizing-information/topics/bp9.html",
+    "href": "parts/visualizing-information/topics/bp9.html",
+    "title": "",
+    "section": "",
+    "text": ".center[10 Data Viz Best Practices]\n.font120[ 1. Remove chart chunk 2. Don’t make 3D plots 3. Don’t lie 4. Don’t use pie charts for proportions 5. Don’t stack bars 6. Rotate and sort categorical axes 7. Eliminate legends & directly label geoms* 8. Don’t use pattern fills 9. .orange[Don’t use red & green together] 10. Consider tables for small data sets]"
+  },
+  {
+    "objectID": "storytelling.html",
+    "href": "storytelling.html",
+    "title": "Storytelling",
+    "section": "",
+    "text": "KEYBOARD SHORTCUTS FOR SLIDES:\n\nUse ← and → to navigate through the slides.\nUse f to toggle full screen.\nUse o to view an overview of all slides.\nUse h to see a list of other shortcuts.\n\n\n\n\nSLIDES\n View slides\n Download PDF"
+  },
+  {
+    "objectID": "visualizing-information.html",
+    "href": "visualizing-information.html",
+    "title": "Visualizing Information",
+    "section": "",
+    "text": "KEYBOARD SHORTCUTS FOR SLIDES:\n\nUse ← and → to navigate through the slides.\nUse f to toggle full screen.\nUse o to view an overview of all slides.\nUse h to see a list of other shortcuts.\n\n\n\n\nSLIDES\n View slides\n Download PDF"
+  },
+  {
+    "objectID": "vizualizing-information.html",
+    "href": "vizualizing-information.html",
+    "title": "Visualizing Information",
+    "section": "",
+    "text": "KEYBOARD SHORTCUTS FOR SLIDES:\n\nUse ← and → to navigate through the slides.\nUse f to toggle full screen.\nUse o to view an overview of all slides.\nUse h to see a list of other shortcuts.\n\n\n\n\nSLIDES\n View slides\n Download PDF"
+  }
+]
