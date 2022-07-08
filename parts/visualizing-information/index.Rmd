@@ -62,10 +62,10 @@ meta() %>%
     description = rmarkdown::metadata$subtitle,
     generator = "xaringan and remark.js"
   ) %>%
-  meta_name("github-repo" = "jhelvy/nrt-dataviz") %>%
+  meta_name("github-repo" = "jhelvy/dtais-dataviz") %>%
   meta_social(
     title = rmarkdown::metadata$title,
-    url = "https://jhelvy.github.io/nrt-dataviz/",
+    url = "https://jhelvy.github.io/dtais-dataviz/",
     og_type = "website",
     og_author = "John Paul Helveston",
     twitter_card_type = "summary_large_image",
@@ -88,6 +88,12 @@ background-size: cover
 ### `r fontawesome::fa(name = "user", fill = "white")` `r rmarkdown::metadata$author`
 ### `r fontawesome::fa(name = "calendar-alt", fill = "white")` `r rmarkdown::metadata$date`
 ]]
+
+---
+
+class: middle, center
+
+# Download [this cheatsheet](https://github.com/jhelvy/dtais-dataviz/raw/main/content/dataviz-cheatsheet.pdf) for today's content
 
 ---
 
@@ -2212,12 +2218,6 @@ class: center, middle
 |-|-|-|
 | Among Democrats | 99% | 1% |
 | Among Republicans | 53% | 47% |
-
----
-
-class: middle, center
-
-# Download: [Data Viz "Cheat Sheet"](https://github.com/jhelvy/nrt-dataviz/raw/master/content/dataviz-cheatsheet.pdf)
 
 ---
 

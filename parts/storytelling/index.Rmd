@@ -60,10 +60,10 @@ meta() %>%
     description = rmarkdown::metadata$subtitle,
     generator = "xaringan and remark.js"
   ) %>%
-  meta_name("github-repo" = "jhelvy/nrt-dataviz") %>%
+  meta_name("github-repo" = "jhelvy/dtais-dataviz") %>%
   meta_social(
     title = rmarkdown::metadata$title,
-    url = "https://jhelvy.github.io/nrt-dataviz/",
+    url = "https://jhelvy.github.io/dtais-dataviz/",
     og_type = "website",
     og_author = "John Paul Helveston",
     twitter_card_type = "summary_large_image",
@@ -93,7 +93,7 @@ background-color: #000
 
 class: middle, center
 
-# Download [this cheetsheet](https://github.com/jhelvy/nrt-dataviz/raw/master/content/storytelling-cheatsheet.pdf) for today's content
+# Download [this cheatsheet](https://github.com/jhelvy/dtais-dataviz/raw/main/content/storytelling-cheatsheet.pdf) for today's content
 
 ---
 
