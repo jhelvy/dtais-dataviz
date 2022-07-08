@@ -20,7 +20,7 @@ In this section, we will discuss strategies for communicating research to others
 2. Designing slides
 3. Giving a talk
 
-# Part 2: [Visualizing Information](vizualizing-information.qmd)
+# Part 2: [Visualizing Information](visualizing-information.qmd)
 
 In this section, we will discuss design principles for visualizing information through charts. This will include:
 

@@ -2,7 +2,6 @@
 title: "Storytelling"
 subtitle: "DTAIS NRT Workshop"
 date: July 12, 2022
-week: 16
 author: "John Paul Helveston"
 institute: "The George Washington University | Dept. of Engineering Management and Systems Engineering"
 output:
