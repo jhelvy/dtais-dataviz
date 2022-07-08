@@ -12,7 +12,7 @@ website:
   site-url: https://jhelvy.github.io/nrt-dataviz/
   repo-url: https://github.com/jhelvy/nrt-dataviz
   description: 'Slides and content for my 2022 NRT workshop on storytelling and data visualization.'
-  search: true
+  search: false
   open-graph: true
   twitter-card:
     site: "@johnhelveston"
@@ -21,6 +21,8 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - icon: house
+        href: google.com
   page-footer:
     center:
       - text: '<a href="https://github.com/jhelvy/nrt-dataviz"><i class="fas fa-github"></i>'
