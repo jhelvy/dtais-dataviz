@@ -7,6 +7,9 @@ project:
   render:
     - "*.qmd"
     - "!parts/"
+  resources:
+    - "parts"
+    - "content"
 
 website:
   image: images/logo.png
