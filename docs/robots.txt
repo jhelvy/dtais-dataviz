@@ -1,1 +1,0 @@
-Sitemap: https://jhelvy.github.io/nrt-dataviz/sitemap.xml
