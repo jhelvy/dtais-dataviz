@@ -8,9 +8,11 @@ path_slides <- file.path("parts", part, "index.html")
 path_pdf <- file.path("parts", part, paste0(part, ".pdf"))
 ```
 
+:::{.column-body-outset}
+
 ::: {.grid}
 
-::: {.g-col-7}
+::: {.g-col-6}
 
 **KEYBOARD SHORTCUTS FOR SLIDES:**
 
@@ -34,9 +36,22 @@ path_pdf <- file.path("parts", part, paste0(part, ".pdf"))
 
 :::
 
+::: {.g-col-3}
+
+::: {.class-buttons}
+
+**CHEATSHEET**
+
+<a href="/content/cheatsheet-storytelling.pdf" class="btn-slides"><i class="fas fa-file-pdf"></i> Download PDF</a>
+
+:::
+
+:::
+
 :::
 
 ```{r lexi-demo, echo=FALSE}
 xaringanExtra::embed_xaringan(url = path_slides, ratio = "16:9")
 ```
 
+:::
