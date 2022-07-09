@@ -6,7 +6,7 @@ project:
     browser: false
   render:
     - "*.qmd"
-    - "!parts/"
+    - "!parts"
   resources:
     - "parts"
     - "content"

@@ -62,18 +62,17 @@ meta() %>%
     description = rmarkdown::metadata$subtitle,
     generator = "xaringan and remark.js"
   ) %>%
-  meta_name("github-repo" = "jhelvy/nrt-dataviz") %>%
+  meta_name("github-repo" = "jhelvy/dtais-dataviz") %>%
   meta_social(
     title = rmarkdown::metadata$title,
-    url = "https://jhelvy.github.io/nrt-dataviz/",
+    url = "https://jhelvy.github.io/dtais-dataviz/",
     og_type = "website",
     og_author = "John Paul Helveston",
     twitter_card_type = "summary_large_image",
     twitter_creator = "@johnhelveston"
   )
 
-# Read in data sets for class
-wildlife_impacts <- read_csv(here('data', 'wildlife_impacts.csv'))
+# Read in data
 gapminder <- read_csv(here('data', 'gapminder.csv'))
 ```
 
@@ -88,6 +87,12 @@ background-size: cover
 ### `r fontawesome::fa(name = "user", fill = "white")` `r rmarkdown::metadata$author`
 ### `r fontawesome::fa(name = "calendar-alt", fill = "white")` `r rmarkdown::metadata$date`
 ]]
+
+---
+
+class: middle, center
+
+# Download [this cheatsheet](https://github.com/jhelvy/dtais-dataviz/raw/main/content/dataviz-cheatsheet.pdf) for today's content
 
 ---
 
@@ -161,12 +166,12 @@ Image from excelcharts.com
 
 ---
 
-```{r child="topics/0.qmd"}
+```{r child="topics/0.Rmd"}
 ```
 
 ---
 
-```{r child="topics/1.qmd"}
+```{r child="topics/1.Rmd"}
 ```
 
 ---
@@ -433,7 +438,7 @@ class: middle
 
 ---
 
-```{r child="topics/2.qmd"}
+```{r child="topics/2.Rmd"}
 ```
 
 ---
@@ -1522,17 +1527,17 @@ countdown(
 
 ---
 
-```{r child="topics/3.qmd"}
+```{r child="topics/3.Rmd"}
 ```
 
 ---
 
-```{r child="topics/bp0.qmd"}
+```{r child="topics/bp0.Rmd"}
 ```
 
 ---
 
-```{r child="topics/bp1.qmd"}
+```{r child="topics/bp1.Rmd"}
 ```
 
 ---
@@ -1608,7 +1613,7 @@ class: center, middle
 
 ---
 
-```{r child="topics/bp2.qmd"}
+```{r child="topics/bp2.Rmd"}
 ```
 
 ---
@@ -1731,7 +1736,7 @@ class: center, middle
 
 ---
 
-```{r child="topics/bp3.qmd"}
+```{r child="topics/bp3.Rmd"}
 ```
 
 ---
@@ -1847,7 +1852,7 @@ Image from Image from http://livingqlikview.com/the-9-worst-data-visualizations-
 
 ---
 
-```{r child="topics/bp4.qmd"}
+```{r child="topics/bp4.Rmd"}
 ```
 
 ---
@@ -1913,7 +1918,7 @@ background-color: #FFFFFF
 
 ---
 
-```{r child="topics/bp5.qmd"}
+```{r child="topics/bp5.Rmd"}
 ```
 
 ---
@@ -1976,7 +1981,7 @@ class: middle, center
 
 ---
 
-```{r child="topics/bp6.qmd"}
+```{r child="topics/bp6.Rmd"}
 ```
 
 ---
@@ -2045,7 +2050,7 @@ class: center
 
 ---
 
-```{r child="topics/bp7.qmd"}
+```{r child="topics/bp7.Rmd"}
 ```
 
 ---
@@ -2086,7 +2091,7 @@ class: center
 
 ---
 
-```{r child="topics/bp8.qmd"}
+```{r child="topics/bp8.Rmd"}
 ```
 
 ---
@@ -2124,7 +2129,7 @@ class: middle, center
 
 ---
 
-```{r child="topics/bp9.qmd"}
+```{r child="topics/bp9.Rmd"}
 ```
 
 ---
@@ -2181,7 +2186,7 @@ class: middle, center
 
 ---
 
-```{r child="topics/bp10.qmd"}
+```{r child="topics/bp10.Rmd"}
 ```
 
 ---
@@ -2212,12 +2217,6 @@ class: center, middle
 |-|-|-|
 | Among Democrats | 99% | 1% |
 | Among Republicans | 53% | 47% |
-
----
-
-class: middle, center
-
-# Download: [Data Viz "Cheat Sheet"](https://github.com/jhelvy/nrt-dataviz/raw/master/content/dataviz-cheatsheet.pdf)
 
 ---
 

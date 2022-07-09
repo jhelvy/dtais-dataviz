@@ -1,20 +1,19 @@
 library(quarto)
 library(renderthis)
 
+# Render slides 
+parts <- c('storytelling', 'visualizing-information')
+for (part in parts) {
+    to_html(
+        from = file.path('parts', part, 'index.Rmd'),
+        to = file.path('parts', part, 'index.html')
+    )
+    to_pdf(
+        from = file.path('parts', part, 'index.html'), 
+        to = file.path('parts', part, paste0(part, '.pdf')), 
+        partial_slides = TRUE
+    )
+}
+
 # Render site
 quarto_render()
-
-# Render slides 
-to_html(from = file.path('parts', 'storytelling', 'index.Rmd'))
-to_pdf(
-    from = file.path('parts', 'storytelling', 'index.html'), 
-    to = 'storytelling.pdf', 
-    partial_slides = TRUE
-)
-
-to_html(from = file.path('parts', 'visualizing-information', 'index.Rmd'))
-to_pdf(
-    from = file.path('parts', 'visualizing-information', 'index.html'), 
-    to = 'visualizing-information.pdf', 
-    partial_slides = TRUE
-)
