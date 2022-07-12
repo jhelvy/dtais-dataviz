@@ -93,7 +93,7 @@ background-color: #000
 
 class: middle, center
 
-# Download [this cheatsheet](https://github.com/jhelvy/dtais-dataviz/raw/main/content/storytelling-cheatsheet.pdf) for today's content
+# Download [this cheatsheet](https://jhelvy.github.io/dtais-dataviz/content/cheatsheet-storytelling.pdf) for today's content
 
 ---
 
@@ -158,7 +158,7 @@ class: middle, center
 background-color: #000
 class: inverse, middle, center
 
-## [Freytag's Pyramid](https://en.wikipedia.org/wiki/Gustav_Freytag)
+## [.orange[Freytag's Pyramid]](https://en.wikipedia.org/wiki/Gustav_Freytag)
 
 <center>
 <img src="images/freytag_pyramid.png" width=800>
@@ -524,9 +524,9 @@ class: center, middle
 
 <p style="font-family: Roboto;">Roboto</p>
 
-<p style="font-family: Source Code Pro;">Source</p>
+<p style="font-family: Fira Sans;">Fira Sans</p>
 
-<p style="font-family: Fira Sans;">Fira</p>
+<p style="font-family: Source Code Pro;">Source Code pro</p>
 
 <p style="font-family: Alegreya;">Alegreya</p>
 
@@ -562,6 +562,9 @@ class: center, middle
 ---
 
 # .center[Use fonts with **same-width** numbers]
+
+# .center[("Mono" fonts)]
+
 <br>
 
 .leftcol40[.right[
@@ -661,19 +664,21 @@ class: center
 
 # </br></br></br>&darr;
 
-<div class="footer-small"><span>Data source: http://somesourceofdata.com &emsp;&emsp; © John Paul Helveston, GWU, Apr. 2021</span></div>
+<div class="footer-small"><span>Data source: http://somesourceofdata.com &emsp;&emsp; © John Paul Helveston, GWU, July 2022</span></div>
 
 ---
 
 class: middle
 
-# .center[If you are in person, consider using handouts<br>(1-2 pages)]
+# .center[If you are in person, consider using handouts<br><br>(1-2 pages)]
 
 <br>
 
-## Why? 
-## 1. Your audience can preview your results
-## 2. Your audience will remember your main points
+## **Helps your audience**:
+
+## 1. Preview your results
+## 2. Take notes 
+## 3. Remember your main points
 
 ---
 
@@ -700,11 +705,23 @@ class: middle, inverse, center
 
 --
 
-### 2. With a shocking factoid ("There are more people alive today than have ever lived...").
+### 2. With a shocking factoid ("40k people died in car accidents last year").
 
 --
 
 ### 1. Tell a story, talk about **people** ("Imagine...")
+
+---
+
+# How **not** to start a speech
+
+--
+
+### 1. Read the title slide
+
+--
+
+### 2. Fiddling with the computer
 
 ---
 
@@ -739,7 +756,7 @@ class: middle
 
 1) Tell a story, talk about **people**
 
-**"Whenever I talk with people about electric cars, they usually ask about Tesla..."**
+**"Whenever I mention electric cars, most people think "Tesla"..."**
 
 ---
 
@@ -749,7 +766,7 @@ class: inverse
 
 ```{r, echo=FALSE}
 countdown(
-  minutes = 7,
+  minutes = 10,
   warn_when = 30,
   update_every = 15,
   top = 0,
@@ -760,7 +777,7 @@ countdown(
 Brainstorm different strategies for how to start your presentation for your projects:
 
 1. Tell a story, talk about **people** ("Imagine...").
-2. With a shocking factoid ("There are more people alive today than have ever lived...").
-3. With a question that matters to the audience ("Have you...?").
+2. With a **factoid** ("There are more people alive today than have ever lived...").
+3. With a **question** that matters to the audience ("Have you ever...?").
 
 Afterwards, we will go around and practice giving the start of each presentation.

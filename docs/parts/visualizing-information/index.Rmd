@@ -92,7 +92,7 @@ background-size: cover
 
 class: middle, center
 
-# Download [this cheatsheet](https://github.com/jhelvy/dtais-dataviz/raw/main/content/dataviz-cheatsheet.pdf) for today's content
+# Download [this cheatsheet](https://jhelvy.github.io/dtais-dataviz/content/cheatsheet-dataviz.pdf) for today's content
 
 ---
 
@@ -235,7 +235,7 @@ class: center
 
 # The power of pre-attentive processing
 
-## Count all the "5"'s
+## Count all the "5"s
 
 --
 
@@ -249,7 +249,7 @@ class: center
 
 # The power of pre-attentive processing
 
-## Count all the "5"'s
+## Count all the "5s
 
 --
 
